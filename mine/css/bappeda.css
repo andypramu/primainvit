@@ -1,0 +1,160 @@
+.f_huruf
+{
+    text-transform:capitalize;
+}
+#jquery-script-menu {
+    position: fixed;
+    height: 90px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    border-top: 5px solid #316594;
+    background: #fff;
+    -moz-box-shadow: 0 2px 3px 0px rgba(0, 0, 0, 0.16);
+    -webkit-box-shadow: 0 2px 3px 0px rgba(0, 0, 0, 0.16);
+    box-shadow: 0 2px 3px 0px rgba(0, 0, 0, 0.16);
+    z-index: 999999;
+    padding: 10px 0;
+    -webkit-box-sizing:content-box;
+    -moz-box-sizing:content-box;
+    box-sizing:content-box;
+}
+
+.jquery-script-center {
+    width: 960px;
+    margin: 0 auto;
+}
+.jquery-script-center ul {
+    width: 212px;
+    float:left;
+    line-height:45px;
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+.jquery-script-center a {
+    text-decoration:none;
+}
+.jquery-script-ads {
+    width: 728px;
+    height:90px;
+    float:right;
+}
+.jquery-script-clear {
+    clear:both;
+    height:0;
+}
+
+
+//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.alignleft {
+    float: left;
+}
+.alignright {
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+.box-button{
+    display:inline-block;
+}
+
+tfoot input { width: 100%; padding: 3px; box-sizing: border-box; } 
+tfoot { display: table-header-group;}
+#coa_filter{
+    display:none;
+}
+/*#orang_filter{
+    display:none;
+}*/
+
+/*div.dataTables_filter label {
+    font-weight: normal;
+    white-space: nowrap;
+    text-align: left;
+    display: none;
+}
+.dataTables_filter {
+    display: none; 
+}*/
+#example1_filter
+{
+    display:none;
+}
+
+#outer
+{
+    width:100%;
+    text-align: center;
+}
+.inner
+{
+    display: inline-block;
+}
+/*table*/
+/*table {
+  border-collapse: separate;
+  border-spacing: 0 2px;
+}
+
+thead th {
+    background-color: #009999;
+  color: white;
+}
+
+tbody td {
+    background-color: #EEEEEE;
+}
+
+tr td:first-child,
+tr th:first-child {
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+tr td:last-child,
+tr th:last-child {
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}*/
+
+/*table {
+        width: 100%;
+        border: 1px solid #cef;
+        text-align: left; }
+th {
+        font-weight: bold;
+        background-color: #acf;
+        border-bottom: 1px solid #cef; }
+td,th {
+        padding: 4px 5px; }
+.odd {
+        background-color: #def; }
+.odd td {
+        border-bottom: 1px solid #cef; }
+*/
+
+

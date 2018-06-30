@@ -1,0 +1,24 @@
+.btn.create{
+	float: right;
+}
+
+@media (max-width: 580px) {
+	.sort-wrapper{
+		color: red;
+		margin-top: 60px;
+		float: left;
+	}
+	
+	.box-header{
+		text-align: center;
+	}
+
+	.btn.create{
+		margin-top:20px;
+		float:none;
+	}
+
+	.box.custom{
+		margin-top:20px;
+	}
+}
