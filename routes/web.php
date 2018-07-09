@@ -22,3 +22,4 @@ Route::get('/tes', 'dashboardController@tes');
 Route::get('/summary/device', 'summaryController@index');
 Route::get('/summary/printer', 'summaryController@printer_index');
 Route::get('/summary/network', 'summaryController@network_index');
+v
